@@ -15,14 +15,15 @@ You can use the website to generate badges: .
 **Me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/8e47f46e-b935-40f3-b440-a3f51a082bc8" />
+<img width="55%" align="right" alt="Github" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/23187c56-df28-4f31-b8e4-1abdb172c38b" />
 
 - 👨🏽‍💻 I’m currently working on VPC;
 - 🌱 I’m currently learning AWS Lambda and Javascript; 
 - 🤔 I’m looking for help with app design;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I play the guitar;
-
+<br>
+<br>
 **Languages and Tools:** 
 
 <!-- Your github readme stats
