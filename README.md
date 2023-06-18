@@ -11,7 +11,7 @@ You can use the website to generate badges: .
 
 &nbsp;
 
-<img width="25%" height="25%" align="right" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/38a51a8e-6359-46cf-a7f2-a7da0c5ffaba" />
+<img width="20%" height="20%" align="right" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/38a51a8e-6359-46cf-a7f2-a7da0c5ffaba" />
 <!-- Talking about you -->
 **Me:**
 
@@ -23,6 +23,9 @@ You can use the website to generate badges: .
 - 🤔 I’m looking for help with app design;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I play the guitar;
+
+---
+<br>
 
 **Languages and Tools:** 
 
@@ -46,7 +49,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
 </p>
-
-
----
 
