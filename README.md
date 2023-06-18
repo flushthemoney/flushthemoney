@@ -15,7 +15,7 @@ You can use the website to generate badges: .
 **Me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/8e47f46e-b935-40f3-b440-a3f51a082bc8" />
 
 - 👨🏽‍💻 I’m currently working on VPC;
 - 🌱 I’m currently learning AWS Lambda and Javascript; 
