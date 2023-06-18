@@ -24,7 +24,8 @@ You can use the website to generate badges: .
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I play the guitar;
 
----
+#
+
 <br>
 
 **Languages and Tools:** 
