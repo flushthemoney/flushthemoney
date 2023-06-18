@@ -11,11 +11,12 @@ You can use the website to generate badges: .
 
 &nbsp;
 
+<img width="25%" height="25%" align="right" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/38a51a8e-6359-46cf-a7f2-a7da0c5ffaba" />
 <!-- Talking about you -->
 **Me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="25%" height="25%" align="right" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/38a51a8e-6359-46cf-a7f2-a7da0c5ffaba" />
+
 
 - 👨🏽‍💻 I’m currently working on VPC;
 - 🌱 I’m currently learning AWS Lambda and Javascript; 
