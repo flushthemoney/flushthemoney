@@ -22,8 +22,7 @@ You can use the website to generate badges: .
 - 🤔 I’m looking for help with app design;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I play the guitar;
-<br>
-<br>
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats
