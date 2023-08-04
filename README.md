@@ -19,7 +19,7 @@ You can use the website to generate badges: .
 <!-- Any image aligned to the right. Beware the width -->
 
 
-- 👨🏽‍💻 I’m currently working on VPC;
+- 👨🏽‍💻 I’m currently working on WebRTC;
 - 🌱 I’m currently learning AWS Lambda and Javascript; 
 - 🤔 I’m looking for help with app design;
 - 💬 Ask me about anything, I am happy to help;
