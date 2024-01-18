@@ -12,7 +12,7 @@ You can use the website to generate badges: .
 
 &nbsp;
 
-<img width="20%" height="20%" align="right" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/38a51a8e-6359-46cf-a7f2-a7da0c5ffaba" />
+<!--<img width="20%" height="20%" align="right" src="https://github.com/flushthemoney/flushthemoney/assets/122557313/38a51a8e-6359-46cf-a7f2-a7da0c5ffaba" /> -->
 <!-- Talking about you -->
 **Me:**
 
